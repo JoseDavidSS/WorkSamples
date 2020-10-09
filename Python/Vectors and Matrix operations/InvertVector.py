@@ -1,6 +1,6 @@
-# Input: matrixA, matrixB.
-# Output: matrixA + matrixB.
-# Restrictions: A, B must be the same size.
+# Input: vector.
+# Output: inverted input vector.
+# Restrictions: input vector must be a list.
 def invertVector (vector):
       if isinstance (vector, list):
             vectorSize = len(vector)
