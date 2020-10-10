@@ -17,6 +17,10 @@ Disclosure; the source webpage above it's not mine, it is just a reference and f
 
 * **Jose David Sánchez Schnitzler** - *Computer Engineering student* - [JoseDavidSS](https://github.com/JoseDavidSS)
 
+## License 📄
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/JoseDavidSS/WorkSamples/blob/main/LICENSE) file for details
+
 
 ##
 <p align="center">This project was made with academical purposes. Schlafenhase 🐰 team member. 2020</p
