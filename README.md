@@ -19,5 +19,5 @@ Disclosure; the source webpage above it's not mine, it is just a reference and f
 
 
 ##
-<p align="center">This project was made with academical purposes. Schlafenhase. 2020</p
+<p align="center">This project was made with academical purposes. Schlafenhase team member. 2020</p
   ```
