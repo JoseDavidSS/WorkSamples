@@ -3,13 +3,13 @@
 
 ## Best Practices for Variable and Method Naming at:
 
-> 📎 https://dzone.com/articles/best-practices-variable-and
+> 📎 [Article here](https://dzone.com/articles/best-practices-variable-and)
 
 Disclosure; the article above has not been written by me, it is just for educational information.
   
 ## Python - Basic Operators:  
 
-> 📎 https://www.tutorialspoint.com/python/python_basic_operators.htm
+> 📎 [Webpage here](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 
 Disclosure; the source webpage above it's not mine, it is just a reference and for educational information.
 
@@ -19,5 +19,5 @@ Disclosure; the source webpage above it's not mine, it is just a reference and f
 
 
 ##
-<p align="center">This project was made with academical purposes. Schlafenhase team member. 2020</p
+<p align="center">This project was made with academical purposes. Schlafenhase 🐰 team member. 2020</p
   ```
