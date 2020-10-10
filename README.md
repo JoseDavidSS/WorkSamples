@@ -7,7 +7,7 @@
 
 Disclosure; the article above has not been written by me, it is just for educational information.
   
-## Python - Basic Operators:  
+## Python 🐍 - Basic Operators:  
 
 > 📎 [Webpage here](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 
