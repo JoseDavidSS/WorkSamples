@@ -5,13 +5,13 @@
 
 > 📎 [Article here](https://dzone.com/articles/best-practices-variable-and)
 
-Disclosure; the article above has not been written by me, it is just for educational information.
+(Disclosure; the article above has not been written by me, it is just for educational information.)
   
 ## Python 🐍 - Basic Operators:  
 
 > 📎 [Webpage here](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 
-Disclosure; the source webpage above it's not mine, it is just a reference and for educational information.
+(Disclosure; the source webpage above it's not mine, it is just a reference and for educational information.)
 
 ## Author 👨🏻‍💻
 
